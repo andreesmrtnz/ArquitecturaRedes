@@ -75,7 +75,7 @@ El objetivo es crear una red funcional que simule un escenario profesional, conf
   Traza el camino entre organizaciones, pasando por el router frontera R7, que redistribuye rutas entre RIP y OSPF.
 
 ## Contribuciones y Agradecimientos 🙌
-Desarrollado por **Pedro Antonio Ruiz Mendoza** (Grupo 2.1, 23958367A) y **Andrés Martínez Lorca** (Grupo 2.2, 49248948Z) durante el curso 2024/2025. Agradecemos a la **Facultad de Informática** y a los profesores de *Arquitectura de Redes* por proporcionar los guiones de prácticas y el soporte necesario. 🙏
+Desarrollado por **Pedro Antonio Ruiz Mendoza** y **Andrés Martínez Lorca** durante el curso 2024/2025. Agradecemos a la **Facultad de Informática** y a los profesores de *Arquitectura de Redes* por proporcionar los guiones de prácticas y el soporte necesario. 🙏
 
 Si te ha gustado este proyecto, ¡déjanos una ⭐ en GitHub! 😊 ¿Tienes sugerencias? ¡Abre un *issue* o un *pull request*! 
 
